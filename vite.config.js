@@ -4,6 +4,6 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base: "/Movie_Mate/", // YOUR REPO NAME HERE
+  base: "/", // YOUR REPO NAME HERE
 })
 
